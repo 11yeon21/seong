@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //215230080 권성연
+
         Button mBtn1 = (Button)findViewById(R.id.button1);
 
         mBtn1.setOnClickListener(new View.OnClickListener() {
